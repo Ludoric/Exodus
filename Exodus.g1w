@@ -1,0 +1,16 @@
+[DLSimProject]
+Name=Exodus
+Version=0.4
+Model=:fx-9860G.dlm
+SourcePath=SRC
+MemoryPath=INIT
+MemCardPath=SDCard
+
+[Program1]
+Program=EXODUS.G1A
+Debug=Debug\FXADDINror.dbg
+LoadAddress=80000000:90100000
+
+[Files]
+SourceFile=:Exodus.c
+SourceFile=:Keys.c

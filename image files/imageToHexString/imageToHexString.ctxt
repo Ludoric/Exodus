@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=imageToHexString
+comment0.text=\ <description\ of\ class\ imageToHexString>\r\n
+comment1.params=
+comment1.target=imageToHexString()
+comment1.text=\r\n\ Construct\ a\ new\ imageToHexString\ object\r\n
+comment2.params=
+comment2.target=void\ setupGUI()
+comment2.text=\r\n\ Setup\ the\ GUI\r\n
+comment3.params=value
+comment3.target=void\ slider(double)
+comment4.params=
+comment4.target=void\ save()
+comment5.params=
+comment5.target=void\ load()
+comment5.text=method\ to\ respond\ to\ the\ button
+comment6.params=arguments
+comment6.target=void\ main(java.lang.String[])
+numComments=7

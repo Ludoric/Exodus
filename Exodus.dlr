@@ -1,0 +1,45 @@
+[DLSimRunSpace]
+
+[Breakpoint]
+File=C:\Users\ludor\Documents\CASIO\fx-9860G SDK\Exodus\Exodus.c
+Line=593
+Flags=00001012
+Sublevel=1
+
+[Breakpoint]
+File=C:\Users\ludor\Documents\CASIO\fx-9860G SDK\Exodus\Exodus.c
+Line=539
+Flags=00001012
+Sublevel=1
+
+[Breakpoint]
+File=C:\Users\ludor\Documents\CASIO\fx-9860G SDK\Exodus\Exodus.c
+Line=293
+Flags=00001012
+
+[Breakpoint]
+File=C:\Users\ludor\Documents\CASIO\fx-9860G SDK\Exodus\Exodus.c
+Line=278
+Flags=00001012
+
+[Breakpoint]
+File=C:\Users\ludor\Documents\CASIO\fx-9860G SDK\Exodus\Exodus.c
+Line=539
+Flags=00001012
+Sublevel=2
+
+[Breakpoint]
+File=C:\Users\ludor\Documents\CASIO\fx-9860G SDK\Exodus\Exodus.c
+Line=593
+Flags=00001012
+Sublevel=2
+
+[Breakpoint]
+File=C:\Users\ludor\Documents\CASIO\fx-9860G SDK\Exodus\Exodus.c
+Line=155
+Flags=00001012
+
+[Breakpoint]
+File=C:\Users\ludor\Documents\CASIO\fx-9860G SDK\Exodus\Exodus.c
+Line=210
+Flags=00001012
